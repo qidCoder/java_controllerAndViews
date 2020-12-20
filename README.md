@@ -71,7 +71,7 @@ The last thing that we have to do is set up our controllers and views. We will g
 </html>
 ```
 
-**homePage.jsp****
+**homePage.jsp**
 ```HTML
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
